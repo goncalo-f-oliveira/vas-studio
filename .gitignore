@@ -1,0 +1,26 @@
+# A linha abaixo determina que o diretório node_modules não será enviado ao repositório remoto
+node_modules
+package-lock.json
+
+.github
+# Environment
+.env
+.env.dev
+
+# IDE
+.vscode/
+
+# Runtime/generated
+output/
+uploads/
+logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Build/cache (if added later)
+dist/
+build/
+.cache/
