@@ -19,6 +19,18 @@ without expensive tools or a steep learning curve.
 
 ---
 
+## 🎞️ Demo
+
+<p align="left">
+  <a href="https://youtu.be/3Pxvjlk-9Wg" target="_blank">
+    <img src="./assets/vas_thumbnail.png" alt="Clique para assistir a demonstração" width="900">
+  </a>
+  <br>
+  <ins>Clique na imagem acima para assistir ao vídeo completo no <b>YouTube</b></ins>
+</p>
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
@@ -53,7 +65,7 @@ purchases down the line.
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/lucas-morim/vas-studio.git
+git clone https://github.com/goncalo-f-oliveira/vas.git
 npm install
 ```
 
